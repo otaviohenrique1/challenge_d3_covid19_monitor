@@ -22,7 +22,7 @@ export function Tabela(props: TabelaProps) {
             props.dataBusca.map((item, index) => {
               return (
                 <ItemLista key={index}
-                  index={(index + 1)}
+                  index={(index)}
                   dias={item.dias}
                   casos={item.casos}
                 />
