@@ -13,5 +13,5 @@
 ### `yarn eject`
   Faz o eject da aplicação
 ## Leia mais
-  [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-  [React documentation](https://reactjs.org/).
+  1. [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  2. [React documentation](https://reactjs.org/).
